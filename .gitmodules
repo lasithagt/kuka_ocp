@@ -1,0 +1,9 @@
+[submodule "kuka_gazebo"]
+	path = kuka_gazebo
+	url = https://github.com/lasithagt/kuka-gazebo.git
+[submodule "kuka_motion"]
+	path = kuka_motion
+	url = https://github.com/lasithagt/robot-motion.git
+[submodule "kuka_admm"]
+	path = kuka_admm
+	url = https://github.com/lasithagt/kuka-ddp.git
