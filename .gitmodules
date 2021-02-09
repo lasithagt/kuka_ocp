@@ -7,3 +7,6 @@
 [submodule "kuka_admm"]
 	path = kuka_admm
 	url = https://github.com/lasithagt/kuka-ddp.git
+[submodule "kuka_msgs"]
+	path = kuka_msgs
+	url = https://github.com/lasithagt/kuka-msgs.git
