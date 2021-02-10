@@ -52,6 +52,7 @@
   <exec_depend>kuka_motion</exec_depend>
   <exec_depend>iiwa</exec_depend>
   <exec_depend>kuka_admm</exec_depend>
+  <exec_depend>kuka_msgs</exec_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
